@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-    padding:70px 30px 70px 30px;
+    padding:100px 30px 100px 30px;
     margin:0px auto;
     background: #9575CD ;
     color:floralwhite;
@@ -42,4 +42,13 @@ margin-left: 55% ;
 
 .navbar-listing li {
     padding-left: 10px ;
+}
+
+body{
+    padding: 50px 0px 0px 0px ;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: black;
 }
