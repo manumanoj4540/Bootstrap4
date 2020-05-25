@@ -36,3 +36,10 @@ padding: 20px 0px 0px 0 ;
 .abtus{
     padding : 10px 0px 0px 0px;
 }
+.navbar-listing{
+margin-left: 55% ;
+}
+
+.navbar-listing li {
+    padding-left: 10px ;
+}
