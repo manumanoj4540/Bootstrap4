@@ -52,3 +52,7 @@ body{
 .navbar-dark{
     background-color: black;
 }
+
+.adj{
+    padding-left: 20px;
+}
