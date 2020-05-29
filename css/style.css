@@ -56,3 +56,11 @@ body{
 .adj{
     padding-left: 20px;
 }
+.adj2{
+ padding-right: 20px;
+}
+
+.button-pad{
+    padding-left: 20px;
+    padding-right: 20px;
+}
